@@ -48,3 +48,8 @@ ollama run gemma:3b
 ## 📸 Demo & Screenshots
 
 [Click here to view demo video and screenshots](https://drive.google.com/drive/folders/1wpuL8DoNauxfaCAP3sBNTUK1wwmkbwys?usp=sharing)
+
+🎥 **Demo Video:** [Watch on YouTube](https://youtu.be/1u1_4UP5gVk)
+
+📌 **Note**: The SOS siren button is fully functional in the app, but due to screen recording limitations, the audio siren was not captured in the demo video.
+
